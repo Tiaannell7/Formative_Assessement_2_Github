@@ -8,7 +8,7 @@ namespace Formative_Assessement_2_Github
         {
             Console.WriteLine("---------------------------------------------------------");
 
-           
+           //Display the number for the type of wood
             Console.WriteLine("Enter 1 for Pine");
             Console.WriteLine("Enter 2 for Oak");
             Console.WriteLine("Enter 3 for Mahogany");
